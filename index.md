@@ -14,7 +14,7 @@
 
 ## Career Summary
 
-Frontend Developer with 3+ years of experience building high-performance, responsive applications using React, TypeScript, and modern Web3 tools. Proven ability to deliver real user and business value through thoughtful UI/UX, efficient state management, and blockchain integrations. Comfortable working across product, design, and backend teams to ship fast and scalable features — from NFT minting and wallet auth to complex analytics and real-time interactions. Delivered production-grade apps for 10,000+ users and pitched MVP at ETHGlobal.
+Frontend Developer with 3+ years of experience building high-performance, responsive applications using React, TypeScript, and modern Web3 tools. Proven ability to deliver real user and business value through thoughtful UI/UX, efficient state management, and blockchain integrations. Comfortable working across product, design, and backend teams to ship fast and scalable features — from NFT minting and wallet authentication to complex analytics and real-time interactions. Delivered production-grade apps for 10,000+ users and pitched an MVP at ETHGlobal.
 
 ---
 
@@ -42,9 +42,9 @@ Cross-chain anonymous crypto exchange available for both Web and Telegram Mini A
 
 ### **Frontend Developer** – [W3E](https://web3engineering.co.uk)
 
-**Feb 2023 – Jan 2025**
+Outsourcing company specializing in web3 projects.
 
-#### Key Achievements:
+**Feb 2023 – Jan 2025**
 
 - Led development of NFT minting and selling flows, ensuring smooth creation, listing, and redemption of tokens for both creator platform and marketplace.
 
@@ -60,13 +60,13 @@ Cross-chain anonymous crypto exchange available for both Web and Telegram Mini A
 
 ### **Frontend Developer** – [Trade Court](https://ethglobal.com/showcase/trade-court-qegn2)
 
-**Mar 2022 – Jan 2023**
+Decentralised P2P exchange.
 
-#### Key Achievements:
+**Mar 2022 – Jan 2023**
 
 - Built a single-page application from scratch in TypeScript with clean architecture and intuitive user flows, laying a solid foundation for product scalability.
 
-- Integrated backend via RTK Query\*\* with lazy loading and virtualization, significantly improving app performance and responsiveness.
+- Integrated backend via RTK Query with lazy loading and virtualization, significantly improving app performance and responsiveness.
 
 - Implemented blockchain wallet authentication and real-time chat using WebSockets, enhancing user interaction and security.
 
