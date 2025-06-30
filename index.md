@@ -1,29 +1,6 @@
-<style>
-	body {
-		font-family: "Times New Roman", sans-serif;
-    font-size: 16px;
-		background-color: #fff;
-		color: #000;
-	}
+<link rel="stylesheet" href="./styles.css">
 
-	a {
-    color: #0074d9;
-    text-decoration: underline;
-  }
-  a:hover {
-    color: #005fa3;
-  }
-
-	span {
-		color: red;
-	}
-
-	code {
-
-	}
-</style>
-
-<div style="text-align: center">
+<div class="center">
 <h1>Vasiliy Smirnov</h1>
 
 <br/>
